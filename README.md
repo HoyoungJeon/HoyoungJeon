@@ -1,6 +1,7 @@
-### Hoyoung Jeon
+# Hoyoung Jeon
 
----
+E-mail : jhy13776@khu.ac.kr
+
 
 <!--
 **HoyoungJeon/HoyoungJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
