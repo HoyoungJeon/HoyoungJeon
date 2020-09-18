@@ -1,7 +1,7 @@
 # Hoyoung Jeon
 
-E-mail : jhy13776@khu.ac.kr
-
+:email: How to reach me: : jhy13776@khu.ac.kr
+:movie_camera: : eternal sunshine
 
 <!--
 **HoyoungJeon/HoyoungJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
