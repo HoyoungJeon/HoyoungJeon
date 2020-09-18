@@ -2,6 +2,8 @@
 
 :email: How to reach me: : jhy13776@khu.ac.kr
 
+I’m currently learning Convex optimization
+
 :movie_camera: : eternal sunshine
 
 <!--
