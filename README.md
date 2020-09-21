@@ -4,7 +4,7 @@
 
 I’m currently learning Convex optimization
 
-favorite movie :movie_camera:  :eternal sunshine
+
 
 <!--
 **HoyoungJeon/HoyoungJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
